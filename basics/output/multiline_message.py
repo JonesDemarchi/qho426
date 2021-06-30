@@ -1,3 +1,10 @@
 #Display a messsage to a standard output to a multiple lines
 print("System failure Imminent!")
 print("System reboot has been initiated...")
+print("") 
+#or print()
+print("...rebooting sensory system")
+print("...rebooting output motors")
+print("...rebooting hover engine")
+print()
+print("System online")
